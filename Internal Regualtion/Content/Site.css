@@ -1,0 +1,76 @@
+html
+{
+    font: 81.25%/1 Arial, "Helvetica Neue" , Helvetica, Sans-Serif;
+    color: #333333;
+    background-color: #fff;
+}
+
+/* Styles for basic forms
+-----------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6
+{
+    line-height: 1.5;
+}
+
+h1
+{
+    font-size: 2.5em;
+}
+h2
+{
+    font-size: 2.25em;
+}
+h3
+{
+    font-size: 2em;
+}
+h4
+{
+    font-size: 1.75em;
+}
+/* Element Form 
+------------------------------------------------------------*/
+#header
+{
+    padding: 20px 40px;
+    background-color: #ebebeb;
+}
+/* custom Style 
+------------------------------------------------------------*/
+
+.heading
+{
+    line-height: 0.95;
+    letter-spacing: -1px;
+ color:#565656;
+}
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error
+{
+    color: #ff0000;
+}
+
+.field-validation-valid
+{
+    display: none;
+}
+
+.input-validation-error
+{
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.validation-summary-valid
+{
+    display: none;
+}

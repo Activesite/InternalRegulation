@@ -1,0 +1,5 @@
+D:\My Project\Internal Regualtion\Internal Regualtion\bin\Internal Regualtion.dll
+D:\My Project\Internal Regualtion\Internal Regualtion\bin\Internal Regualtion.pdb
+D:\My Project\Internal Regualtion\Internal Regualtion\obj\Debug\ResolveAssemblyReference.cache
+D:\My Project\Internal Regualtion\Internal Regualtion\obj\Debug\Internal Regualtion.dll
+D:\My Project\Internal Regualtion\Internal Regualtion\obj\Debug\Internal Regualtion.pdb
